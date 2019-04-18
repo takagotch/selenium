@@ -11,8 +11,6 @@ https://pypi.org/project/selenium/
 ```
 
 ```sh
-
-
 java -jar selenium-server-standalone-3.141.0.jar
 ```
 
